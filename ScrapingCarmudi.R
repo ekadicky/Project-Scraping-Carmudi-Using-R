@@ -43,7 +43,7 @@ tabeldf <- tabeldf %>%
   )
 
 # Memilih satu baris data secara acak
-pilih <- sample(1:32,1,replace=F)
+pilih <- sample(1:25,1,replace=F)
 mobil_terpilih <- tabeldf[pilih,]
 
 # Koneksi ke MongoDB untuk memasukkan data
