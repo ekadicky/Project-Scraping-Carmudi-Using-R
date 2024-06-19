@@ -55,8 +55,6 @@ Proyek kali ini akan melakukan scraping pada situs web "Carmudi Indonesia" yang 
 <img src="https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/1acef8b5-8326-4ed1-81d5-15e767ed8f99" width="200" height="200">
 
 
-</p>
-
 
 <p align="justify">
 Salah satu produk kendaraan yang dipasarkan dalam situs ini adalah Toyota Raize. Toyota Raize adalah sebuah SUV Compact yang diproduksi oleh Toyota. Kendaraan ini dikenal dengan desainnya yang sporty dan modern, serta fitur-fitur canggih yang ditawarkan. Scraping data pada Toyota Raize memiliki kepentingan strategis dalam berbagai aspek industri otomotif. Dengan mengumpulkan informasi tentang SUV Compact ini, analis dan dealer dapat memperoleh pemahaman yang lebih dalam tentang tren pasar, preferensi konsumen, dan posisi kompetitif Raize dibandingkan dengan kendaraan lain di segmennya. Informasi ini penting untuk merumuskan strategi pemasaran yang efektif, menyesuaikan harga, dan meningkatkan penawaran produk.
