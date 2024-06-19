@@ -13,17 +13,17 @@
 
 </p>
 
-[Tentang](#newspaper-Tentang)
+[Tentang](#information_source-Tentang)
 •
-[Deskripsi Project](#open_book-Project)
+[Deskripsi Project](#desktop_computer-Project)
 •
-[Dokumen](#books-Dokumen)
+[Dokumen](##notebook_with_decorative_cover-Dokumen)
 •
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+[Visualisasi Data Scraping](#chart_with_upwards_trend-visualisasi-data-scraping)
 •
-[PPT](#computer-PPT)
+[PPT](#open_book-PPT)
 •
-[Pengembang](#panda_face-Pengembang)
+[Pengembang](#construsction_worker_man-Pengembang)
 
 
 </div>
