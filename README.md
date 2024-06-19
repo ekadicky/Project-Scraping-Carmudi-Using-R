@@ -52,7 +52,7 @@ Proyek kali ini akan melakukan scraping pada situs web "Carmudi Indonesia" yang 
 
 </p>
 
-<img src="https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/1acef8b5-8326-4ed1-81d5-15e767ed8f99" width="200" height="200">
+<img src="https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/1acef8b5-8326-4ed1-81d5-15e767ed8f99" width="180" height="200">
 
 </p>
 
