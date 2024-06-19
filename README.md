@@ -28,7 +28,7 @@
 
 </div>
 
-# ℹ️ Tentang
+# ℹ️: Tentang
 
 **APA ITU CARMUDI?**
 
