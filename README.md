@@ -96,7 +96,7 @@ https://rpubs.com/ekdrmwn/1198205
 
 ## 📖 PPT
 Berikut adalah link powerpoint yang memuat projek ini :
-
+https://github.com/ekadicky/Project-Scraping-Carmudi-Using-R/blob/main/PPT_ScrapingCarmudi.pdf
 
 
 ## 👷‍♂️ Pengembang
