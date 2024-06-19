@@ -92,7 +92,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Toyota Raize :
 
 ## 📈 Visualiasi-Data-Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
-
+https://rpubs.com/ekdrmwn/1198202
 
 ## 📖 PPT
 Berikut adalah link powerpoint yang memuat projek ini :
