@@ -28,7 +28,7 @@
 
 </div>
 
-# :newspaper: Tentang
+# ℹ️ Tentang
 
 **APA ITU CARMUDI?**
 
@@ -37,7 +37,7 @@ Carmudi adalah situs web wadah untuk mempertemukan antara penjual dengan pembeli
 </p>
 
 
-## :open_book: Project 
+## 🖥️ Project 
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Data apa saja yang akan dilakukan scraping adalah sebagai berikut :
 </p>
 
 
-# :books: Dokumen
+# 📔 Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk Toyota Raize :
 ```mongodb
 {
@@ -86,14 +86,14 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Toyota Raize :
         "Lokasi":" DKI Jakarta"}
 ```
 
-## :bar_chart: Visualiasi-Data-Scraping
+## 📈 Visualiasi-Data-Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
 
 
-## :computer: PPT
+## 📖 PPT
 Berikut adalah link powerpoint yang memuat projek ini :
 
 
 
-## :panda_face: Pengembang
+## 👷‍♂️ Pengembang
 + [Eka Dicky Darmawan Yanuari](https://github.com/ekadicky/) (G1501231088)
