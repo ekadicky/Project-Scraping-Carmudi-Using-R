@@ -95,7 +95,7 @@ Berikut merupakan link visualisasi data hasil scraping :
 + [Visualisasi Project Web Scraping: carmudi.co.ic](https://rpubs.com/ekdrmwn/1198205)
 
 ## 📖 Slide Presentasi
-Berikut adalah link materi presentasi yang memuat projek ini :
+Berikut adalah link materi presentasi yang memuat proyek ini :
 + [Slide Presentasi Project Web Scraping: carmudi.co.ic](https://github.com/ekadicky/Project-Scraping-Carmudi-Using-R/blob/main/PPT_ScrapingCarmudi.pdf)
 
 
