@@ -92,11 +92,11 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk mobil bekas Toyota Rai
 
 ## 📈 Visualiasi Data Hasil Scraping
 Berikut merupakan link visualisasi data hasil scraping : 
-+ [Visualisasi Project Web Scraping: carmudi.co.ic](https://rpubs.com/ekdrmwn/1198205)
++ [Visualisasi Project Web Scraping: carmudi.co.id](https://rpubs.com/ekdrmwn/1198205)
 
 ## 📖 Slide Presentasi
 Berikut adalah link materi presentasi yang memuat proyek ini :
-+ [Slide Presentasi Project Web Scraping: carmudi.co.ic](https://github.com/ekadicky/Project-Scraping-Carmudi-Using-R/blob/main/PPT_ScrapingCarmudi.pdf)
++ [Slide Presentasi Project Web Scraping: carmudi.co.id](https://github.com/ekadicky/Project-Scraping-Carmudi-Using-R/blob/main/PPT_ScrapingCarmudi.pdf)
 
 
 ## 👷‍♂️ Pengembang
