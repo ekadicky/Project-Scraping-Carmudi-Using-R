@@ -78,7 +78,7 @@ Data apa saja yang akan dilakukan scraping adalah sebagai berikut :
 
 
 # 📔 Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk Toyota Raize :
+Berikut adalah salah satu contoh dokumen di MongoDB untuk mobil bekas Toyota Raize dari website Carmudi Indonesia :
 ```mongodb
 {
         "_id":{"$oid":"6669903ab80e134b77083cd1"},
@@ -90,12 +90,12 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Toyota Raize :
         "Lokasi":" DKI Jakarta"}
 ```
 
-## 📈 Visualiasi-Data-Scraping
-Berikut merupakan link data visualisasi dari hasil scraping : 
+## 📈 Visualiasi Data Hasil Scraping
+Berikut merupakan link visualisasi data hasil scraping : 
 + [Visualisasi Project Web Scraping: carmudi.co.ic](https://rpubs.com/ekdrmwn/1198205)
 
-## 📖 PPT
-Berikut adalah link powerpoint yang memuat projek ini :
+## 📖 Slide Presentasi
+Berikut adalah link materi presentasi yang memuat projek ini :
 + [Slide Presentasi Project Web Scraping: carmudi.co.ic](https://github.com/ekadicky/Project-Scraping-Carmudi-Using-R/blob/main/PPT_ScrapingCarmudi.pdf)
 
 
