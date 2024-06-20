@@ -92,11 +92,11 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Toyota Raize :
 
 ## 📈 Visualiasi-Data-Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
-https://rpubs.com/ekdrmwn/1198205
++ [Visualisasi Project Web Scraping: carmudi.co.ic](https://rpubs.com/ekdrmwn/1198205)
 
 ## 📖 PPT
 Berikut adalah link powerpoint yang memuat projek ini :
-https://github.com/ekadicky/Project-Scraping-Carmudi-Using-R/blob/main/PPT_ScrapingCarmudi.pdf
++ [Slide Presentasi Project Web Scraping: carmudi.co.ic](https://github.com/ekadicky/Project-Scraping-Carmudi-Using-R/blob/main/PPT_ScrapingCarmudi.pdf)
 
 
 ## 👷‍♂️ Pengembang
